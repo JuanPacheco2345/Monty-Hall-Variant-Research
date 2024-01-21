@@ -161,7 +161,7 @@ def VariantWith100Door(trails):
           )
 
 
-# Print the probabilities after number of iterations
+# Run Simulations
 print("Monty Hall with Variant")
 VariantWith3Door(simulation)
 print()
