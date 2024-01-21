@@ -1,4 +1,5 @@
-Motivation/Background Material
+Motivation/Background Material:
+
 The Monty Hall game was a famous television game that was hosted by Monty Hall in the 1980s, it is also
 well-known because of its probability theory. However, During the 1990s there was a debate about whether there
 existed a strategy behind this game. Various scientists and mathematicians investigated this game, trying to
@@ -9,7 +10,11 @@ put this into perspective. For that reason, we want to create a simulation to va
 different conditions. In addition, I would like to determine if adding a variant could affect the probability of winning
 the prize, and how much of a difference it would make to the famous game show.
 
-Problem Statement
+
+
+
+Problem Statement:
+
 Visualize that you are in the Monty Hall game show, during the game show you are placed in an
 environment with “n” doors. The number of doors will range from three, six, nine, twenty, and hundred, hence all
 doors will contain a goat except one, which will contain the car (the grand price). Once all situated, you be given the
